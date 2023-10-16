@@ -1,0 +1,2 @@
+# promtail
+promtail-loki
